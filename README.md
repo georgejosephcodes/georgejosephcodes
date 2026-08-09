@@ -178,13 +178,10 @@ Express.js, Firebase, Google Maps API and Gemini API.
 
 ---
 
-<h2>💻 Competitive Programming</h2>
+## 💻 Competitive Programming
 
-<p>
-I enjoy solving algorithmic problems involving data structures,
-graphs, dynamic programming, greedy algorithms, binary search and
-optimization.
-</p>
+I enjoy solving algorithmic problems involving data structures, graphs,
+dynamic programming, greedy algorithms, binary search and optimization.
 
 <p>
   <a href="https://leetcode.com/">
@@ -193,6 +190,13 @@ optimization.
   <a href="https://codeforces.com/">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge" alt="Codeforces"/>
   </a>
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-4★-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</p>
+
+<p>
+  <b>2,000+ problems solved</b> • <b>130+ contests participated</b>
 </p>
 
 ---
