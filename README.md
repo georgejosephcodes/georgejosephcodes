@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm George Joseph</h1>
+<h1 align="center">Hi 👋, I'm George Joseph</h1>
 
-<p>
-  Computer Science & AI student | Backend Developer | Competitive Programmer
+<p align="center">
+  <b>Computer Science & AI Student · Backend Developer · Competitive Programmer</b>
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/georgejosephx">
     <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -16,39 +16,48 @@
 
 <p>
 I'm a Computer Science & Artificial Intelligence student interested in
-backend engineering, algorithms, and building practical software systems.
-I enjoy competitive programming and working with APIs, databases,
-caching, and AI-powered applications.
+backend engineering, distributed systems, concurrency, databases, and
+algorithmic problem solving.
+</p>
+
+<p>
+I enjoy building practical backend systems and progressively improving
+their scalability and reliability by solving concrete engineering problems.
+I'm also an active competitive programmer with 2,000+ problems solved.
 </p>
 
 ---
 
-<h2>🛠️ Languages and Tools</h2>
+<h2>🛠️ Languages & Technologies</h2>
+
+<h3>Languages</h3>
 
 <p>
-  <a href="https://www.cprogramming.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
+  <a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="42" height="42"/>
   </a>
   <a href="https://isocpp.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>
   </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42"/>
   </a>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
   </a>
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  <a href="https://www.javascript.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="42" height="42"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
+</p>
+
+<h3>Backend & Databases</h3>
+
+<p>
+  <a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="42" height="42"/>
   </a>
   <a href="https://nodejs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42"/>
@@ -56,31 +65,25 @@ caching, and AI-powered applications.
   <a href="https://expressjs.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/>
   </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42"/>
-  </a>
-</p>
-
-<h3>Databases & Infrastructure</h3>
-
-<p>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
-  </a>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="42" height="42"/>
   </a>
   <a href="https://redis.io/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="42" height="42"/>
   </a>
+</p>
+
+<h3>Tools & Infrastructure</h3>
+
+<p>
   <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42"/>
   </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42"/>
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
   </a>
   <a href="https://www.postman.com/">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="42" height="42"/>
@@ -88,14 +91,47 @@ caching, and AI-powered applications.
   <a href="https://www.linux.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
+</p>
+
+<h3>Frontend & ML</h3>
+
+<p>
+  <a href="https://react.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42"/>
+  </a>
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42"/>
   </a>
 </p>
 
 ---
 
 <h2>🚀 Featured Projects</h2>
+
+<h3>⚙️ JobMQ</h3>
+
+<p>
+Concurrent job scheduling and execution system built in Go and PostgreSQL,
+designed to evolve from a single-process scheduler into a fault-tolerant
+multi-instance system.
+</p>
+
+<ul>
+  <li>Built a bounded scheduler with capacity-aware database fetching and backpressure.</li>
+  <li>Implemented atomic job claiming using PostgreSQL row locking and <code>FOR UPDATE SKIP LOCKED</code>.</li>
+  <li>Added PostgreSQL-backed execution leases with heartbeats and stale-worker protection.</li>
+  <li>Used Go goroutines, worker pools, priority queues and <code>pgxpool</code>.</li>
+  <li>Designed the system version-by-version around concrete scalability and reliability problems.</li>
+</ul>
+
+<p>
+  <a href="https://github.com/georgejosephcodes/jobmq">
+    <img src="https://img.shields.io/badge/Repository-JobMQ-black?style=for-the-badge&logo=github" alt="JobMQ Repository"/>
+  </a>
+</p>
 
 <h3>💊 MedInventory</h3>
 
@@ -106,9 +142,9 @@ Express.js, MongoDB, Redis, JWT, Flask and scikit-learn.
 
 <ul>
   <li>Implemented FEFO-based stock issuance to reduce expired-stock wastage.</li>
-  <li>Used Redis distributed locking for consistent stock operations.</li>
-  <li>Integrated a Python Flask microservice for anomaly detection.</li>
-  <li>Automated daily inventory analysis using scheduled processing.</li>
+  <li>Used Redis distributed locking for consistent concurrent stock operations.</li>
+  <li>Integrated a Python Flask service for anomaly detection.</li>
+  <li>Automated inventory analysis using scheduled processing.</li>
 </ul>
 
 <h3>🗺️ Loopless</h3>
@@ -149,12 +185,7 @@ Express.js, Firebase, Google Maps API and Gemini API.
   </li>
 
   <li>
-    <b>Flipkart GRiD 8.0:</b> Advanced to the
-    <b>National Semi-Finals</b>.
-  </li>
-
-  <li>
-    <b>Codeforces:</b> Specialist — maximum rating <b>1520</b>.
+    <b>Flipkart GRiD 8.0:</b> National Semi-Finalist.
   </li>
 
   <li>
@@ -166,22 +197,24 @@ Express.js, Firebase, Google Maps API and Gemini API.
   </li>
 
   <li>
-    Solved <b>2,000+ algorithmic problems</b> and participated in
-    <b>130+ contests</b>.
+    <b>Codeforces:</b> Specialist — maximum rating <b>1520</b>.
   </li>
 
   <li>
-    <b>Competitive Programming:</b> Participated in contests across
-    Codeforces, CodeChef and LeetCode.
+    Solved <b>2,000+ algorithmic problems</b> and participated in
+    <b>130+ contests</b>.
   </li>
 </ul>
 
 ---
 
-## 💻 Competitive Programming
+<h2>💻 Competitive Programming</h2>
 
-I enjoy solving algorithmic problems involving data structures, graphs,
-dynamic programming, greedy algorithms, binary search and optimization.
+<p>
+I enjoy solving problems involving data structures, graphs, dynamic
+programming, greedy algorithms, binary search, optimization and
+competitive programming techniques.
+</p>
 
 <p>
   <a href="https://leetcode.com/">
@@ -195,13 +228,14 @@ dynamic programming, greedy algorithms, binary search and optimization.
   </a>
 </p>
 
-<p>
-  <b>2,000+ problems solved</b> • <b>130+ contests participated</b>
+<p align="center">
+  <b>2,000+ Problems Solved</b> &nbsp;•&nbsp;
+  <b>130+ Contests</b>
 </p>
 
 ---
 
-<h2>⚡️ Where to Find Me</h2>
+<h2>⚡️ Connect With Me</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/georgejosephx">
@@ -213,6 +247,6 @@ dynamic programming, greedy algorithms, binary search and optimization.
 
 <h2>🐍 GitHub Contributions</h2>
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/georgejosephcodes/georgejosephcodes/output/snake-purple.svg" alt="GitHub Contribution Snake"/>
 </p>
